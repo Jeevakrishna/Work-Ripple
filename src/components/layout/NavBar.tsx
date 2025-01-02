@@ -101,7 +101,7 @@ const NavBar = () => {
 									span
 									c="dimmed"
 								>
-									place
+									Space
 								</Text>
 							</Text>
 						</Grid.Col>
@@ -123,7 +123,7 @@ const NavBar = () => {
 									target="_blank"
 									rel="noopener noreferrer"
 									href={`https://twitter.com/intent/tweet
-									?text=${name}'s place by&url=https://zen.mode.vercal.app/${name}`}
+									?text=${name}'s place by&url=https://workripple.vercel.app/${name}`}
 									color="blue"
 									variant="subtle"
 								>

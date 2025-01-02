@@ -39,7 +39,7 @@ const Changelog = ({ data }) => {
 				<title>Changelog | daily.place</title>
 				<meta
 					name="title"
-					content="Changelog | Zen.Mode"
+					content="Changelog | Work Ripple"
 				/>
 				<meta
 					name="description"

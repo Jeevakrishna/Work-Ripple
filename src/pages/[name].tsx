@@ -11,7 +11,7 @@ import Todo from "@/components/Todo";
 const Place = () => {
 	const router = useRouter();
 	const { name } = router.query;
-	const title = `${name}'s place | daily.place`;
+	const title = `${name}'s place | Work Ripple`;
 
 	useEffect(() => {
 		const storage = localStorage.getItem("dailyPlaceNames");
@@ -33,7 +33,7 @@ const Place = () => {
 				<title>{title}</title>
 				<meta
 					property="og:image"
-					content={`https://daily.place/api/og?title=${title}`}
+					content={`https://rorkripple/api/og?title=${title}`}
 					key="ogImage"
 				/>
 				<meta

@@ -50,7 +50,7 @@ const Home = () => {
 				justify="center"
 			>
 				<Image
-					alt="Zen Mode logo"
+					alt="Work Ripple logo"
 					src={dark ? "/logo-dark.svg" : "/logo-light.svg"}
 					width={120}
 				/>
@@ -58,7 +58,7 @@ const Home = () => {
 					order={1}
 					m="50px 0 20px"
 				>
-					Zen.Mode
+					WorkRipple
 				</Title>
 
 				<Title
@@ -77,7 +77,7 @@ const Home = () => {
 						<TextInput
 							placeholder="Name of your space"
 							size="md"
-							label={`zen.mode.vercal.app/${form?.values?.name}`}
+							label={`https://workripple.vercel.app/${form?.values?.name}`}
 							error
 							{...form.getInputProps("name")}
 						/>

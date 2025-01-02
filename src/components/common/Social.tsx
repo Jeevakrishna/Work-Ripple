@@ -15,7 +15,7 @@ const Social = () => {
 					target="_blank"
 					rel="noopener noreferrer"
 					href={`https://twitter.com/intent/tweet
-					?text=Create your perfect space to focus on your daily tasks
+					?text=Craft the perfect space to boost focus and tackle your daily tasks
 					&url=https://zen.mode.vercal.app&hashtags=lofi,pomodoro,todo&via=1zenmode`}
 					color="blue"
 					variant="subtle"
@@ -28,7 +28,7 @@ const Social = () => {
 				component="a"
 				target="_blank"
 				rel="noopener noreferrer"
-				href="https://github.com/Jeevakrishna/Zen-Mode"
+				href="https://github.com/Jeevakrishna/WorkRipple"
 				variant="subtle"
 			>
 				<IconBrandGithub size={18} />

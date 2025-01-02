@@ -134,10 +134,10 @@ export default function App({ Component, pageProps, mode }: AppCustomProps) {
 				}}
 			>
 				<Head>
-					<title>Zen.Mode</title>
+					<title>Work Ripple</title>
 					<meta
 						name="title"
-						content="daily.place"
+						content="Work Ripple"
 					/>
 					<meta
 						name="description"
@@ -146,7 +146,7 @@ export default function App({ Component, pageProps, mode }: AppCustomProps) {
 
 					<meta
 						property="og:site_name"
-						content="Zen.Mode"
+						content="Work Ripple"
 					/>
 					<meta
 						property="og:type"
@@ -154,11 +154,11 @@ export default function App({ Component, pageProps, mode }: AppCustomProps) {
 					/>
 					<meta
 						property="og:url"
-						content="https://zen.mode.vercal.app/"
+						content="https://workripple.vercel.app/"
 					/>
 					<meta
 						property="og:title"
-						content="Zen.Mode"
+						content="Work Ripple"
 					/>
 					<meta
 						property="og:description"
@@ -176,11 +176,11 @@ export default function App({ Component, pageProps, mode }: AppCustomProps) {
 					/>
 					<meta
 						name="twitter:url"
-						content="https://zen.mode.vercal.app/"
+						content="https://workripple.vercel.app/"
 					/>
 					<meta
 						name="twitter:title"
-						content="Zen.Mode"
+						content="Work Ripple"
 					/>
 					<meta
 						name="twitter:description"

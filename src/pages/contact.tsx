@@ -68,11 +68,11 @@ const Contact = () => {
 				<title>Contact | daily.place</title>
 				<meta
 					name="title"
-					content="Contact | Zen.Mode"
+					content="Contact | Work Ripple"
 				/>
 				<meta
 					name="description"
-					content="Questions, feedback or help about Zen.Mode"
+					content="Questions, feedback or help about Work Ripple"
 				/>
 			</Head>
 			<div>

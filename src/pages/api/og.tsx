@@ -10,7 +10,7 @@ export default function handler(request: any) {
 
 		// ?title=<title>
 		const hasTitle = searchParams.has("title");
-		const title = hasTitle ? searchParams.get("title")?.slice(0, 100) : "Zen.Mode";
+		const title = hasTitle ? searchParams.get("title")?.slice(0, 100) : "Work Ripple";
 
 		return new ImageResponse(
 			(
