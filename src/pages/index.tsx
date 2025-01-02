@@ -77,7 +77,7 @@ const Home = () => {
 						<TextInput
 							placeholder="Name of your space"
 							size="md"
-							label={`https://workripple.vercel.app/${form?.values?.name}`}
+							label={`workripple.vercel.app/${form?.values?.name}`}
 							error
 							{...form.getInputProps("name")}
 						/>
