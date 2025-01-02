@@ -161,6 +161,22 @@ const Home = () => {
 				</Carousel>
 			</Container> */}
 
+<Flex
+    mt={0.1}
+    justify="center"
+    w="100%"
+>
+    <a href="https://www.producthunt.com/posts/work-ripple?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-work&#0045;ripple" target="_blank">
+        <img
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=751736&theme=light"
+            alt="Work Ripple - Create the ideal space to boost focus & conquer tasks daily | Product Hunt"
+            style={{ width: "250px", height: "54px" }}
+            width="250"
+            height="54"
+        />
+    </a>
+</Flex>
+
 			<Flex
 				mt={100}
 				mb={50}
