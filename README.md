@@ -88,7 +88,13 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to **@windsurf_ai** for assisting in making Work Ripple a reality.  
 
 ---
+## 💖 Support my work
+If you enjoy my work, you can sponsor me on [Buy Me a Coffee](https://www.buymeacoffee.com/jeevakrishna)!
 
+[![Buy Me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-yellow?style=flat-square)](https://www.buymeacoffee.com/jeevakrishna)
+
+
+---
 ## Feedback  
 
 Your feedback is invaluable! If you have any suggestions or ideas, feel free to open an issue or contact me.  
