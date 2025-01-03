@@ -1,5 +1,5 @@
+# Work Ripple  
 
-<<<<<<< HEAD
 Work Ripple is a PWA that boosts productivity with a Pomodoro timer, to-do list, lofi-sound playlist, and dark mode. Your preferences are saved locally and accessible across sessions. Multi-device sync coming soon. Stay focused and organized effortlessly!  
 
 ## Features  
@@ -94,6 +94,5 @@ Special thanks to **@windsurf_ai** for assisting in making Work Ripple a reality
 Your feedback is invaluable! If you have any suggestions or ideas, feel free to open an issue or contact me.  
 
 Developed by [Jeevakrishna](https://github.com/Jeevakrishna).  
+
 [Check it out on Product Hunt!](https://www.producthunt.com/posts/work-ripple)  
-=======
->>>>>>> 9a91a01d59aaff4aab84cb0c4620c6a48c692001
