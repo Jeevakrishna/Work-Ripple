@@ -62,7 +62,7 @@ If you'd like to run this project locally:
 ```
 4.Open the app in your browser at 
   ```bash
-  http://localhost:3000.
+  http://localhost:3000
   ```
 ---
 ## Contributing  
