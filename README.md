@@ -49,7 +49,7 @@ If you'd like to run this project locally:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/work-ripple.git
+   git clone https://github.com/Jeevakrishna/Work-Ripple.git
    cd work-ripple
 	```
 2.Install dependencies
