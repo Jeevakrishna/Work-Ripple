@@ -51,6 +51,7 @@ If you'd like to run this project locally:
    ```bash
    git clone https://github.com/your-username/work-ripple.git
    cd work-ripple
+   ```
 2.Install dependencies
    ```bash
    npm install
