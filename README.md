@@ -4,22 +4,22 @@ Work Ripple is a PWA that boosts productivity with a Pomodoro timer, to-do list,
 
 ## Features  
 
-### 🕒 **Pomodoro Timer**  
+### **Pomodoro Timer**  
 - Set custom work intervals with short and long breaks.  
 - Stay productive with the proven Pomodoro technique.  
 
-### ✅ **To-Do List**  
+### **To-Do List**  
 - Create, edit, and delete tasks effortlessly.  
 - Track your progress and stay on top of your goals.  
 
-### 🎵 **Custom Playlist**  
+###  **Custom Playlist**  
 - Choose from 9 unique sounds, including Lofi, Rain, and City Walk.  
 - Mix sounds and control individual volumes for a personalized experience.  
 
-### 🌙 **Dark Mode**  
+###  **Dark Mode**  
 - A night-friendly interface for late work sessions.  
 
-### 🔒 **Data Privacy**  
+###  **Data Privacy**  
 - All your preferences are saved locally in your browser.  
 - Multi-device sync is coming soon to keep your data accessible anywhere.  
 
@@ -88,7 +88,7 @@ This project is licensed under the [GPL-3.0 license](LICENSE).
 Special thanks to **@windsurf_ai** for assisting in making Work Ripple a reality.  
 
 ---
-## 💖 Support my work
+##  Support my work
 If you enjoy my work, you can sponsor me on [Buy Me a Coffee](https://www.buymeacoffee.com/jeevakrishna)!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-yellow?style=flat-square)](https://www.buymeacoffee.com/jeevakrishna)
